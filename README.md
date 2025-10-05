@@ -90,8 +90,8 @@ Git / ZIP packaging: submission
 📬 Contact
 
 Team: Bikky Kumar & Amritesh Raj
-Email: bikky.dtu@example.com
- | amritesh.dtu@example.com
+Email : bikkykumar_se22a11_32@dtu.ac.in
+ | amriteshraj_se22a11_09@dtu.ac.in
 
 Institute: DTU, Delhi
 Path: /content/drive/MyDrive/skyhack
